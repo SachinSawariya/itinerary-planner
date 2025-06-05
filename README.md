@@ -45,7 +45,7 @@ A modern, responsive travel itinerary planner built using **React**, **Tailwind 
 
 ## 🎥 Demo Video
 
-[📽️ Watch the 1-minute demo](https://your-video-link.com)
+[📽️ Watch the 1-minute demo](https://www.loom.com/share/059c29b44f334b1096e48b303ee29bb6?sid=d31bd379-fdf8-483d-a518-00ebd83f8975)
 ---
 
 ## 🚧 Challenges Faced
